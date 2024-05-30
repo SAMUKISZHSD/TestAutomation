@@ -1,0 +1,1 @@
+Dir[File.join(File.dirname(_FILE__),"../pages/*_pages.rb")].each {|file|require file}
