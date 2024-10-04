@@ -1,6 +1,6 @@
 # Automação de Testes
 
-Este repositório contém estudos e projetos de automação de testes focado em Ruby, Gherkin e Cucumber para criar cenários de testes.
+Este repositório contém estudos de automação de testes focado em Ruby, Gherkin e Cucumber para criar cenários de testes.
 
 ## Recursos
 
